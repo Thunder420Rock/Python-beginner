@@ -1,1 +1,1 @@
-These python beginner projects halp clear out basics 
+These python beginner projects help clear out basics 
